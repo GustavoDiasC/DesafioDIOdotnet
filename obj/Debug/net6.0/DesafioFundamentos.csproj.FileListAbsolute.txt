@@ -1,0 +1,5 @@
+C:\Users\gustavo.charra\Downloads\a30dd598-fff1-4523-92bc-86cf312b2c67\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.csproj.AssemblyReference.cache
+C:\Users\gustavo.charra\Downloads\a30dd598-fff1-4523-92bc-86cf312b2c67\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo.charra\Downloads\a30dd598-fff1-4523-92bc-86cf312b2c67\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfoInputs.cache
+C:\Users\gustavo.charra\Downloads\a30dd598-fff1-4523-92bc-86cf312b2c67\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfo.cs
+C:\Users\gustavo.charra\Downloads\a30dd598-fff1-4523-92bc-86cf312b2c67\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
